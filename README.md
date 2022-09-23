@@ -1,2 +1,2 @@
 # 2048AI
-CS308 AI for 2048
+MCTS for 2048
